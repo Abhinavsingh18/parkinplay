@@ -1,0 +1,36 @@
+
+/*Fira Sans style*/
+body *, .topnav .navbar-nav .nav-link {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, label, th, strong, b,
+label.bold,
+.font-weight-bolder,
+.font-weight-600,
+.matchdate-span,
+.match-title,
+.notefont,
+.load-more,
+.price,
+.nav-tabs > li > a,
+.nav-pills > li > a,
+.font-weight-bold,
+.bold600 {
+    font-weight: 400 !important;
+}
+
+label {
+    font-size: 13px !important;
+}
+
+h5, .h5 {
+    font-size: 13px;
+}
+
+.bold {
+    font-weight: 500 !important;
+}
+
+
+/*Fira Sans style*/
